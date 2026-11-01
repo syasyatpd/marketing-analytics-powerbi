@@ -233,39 +233,16 @@ Views and click-through rate fell every year, while ratings stayed flat just bel
 
 ---
 
-## 9. Repository Structure
-
-```
-.
-├── README.md
-├── Episode_1_-_Marketing_Analytics_Business_Case__Clean_.pptx   # Business case, KPIs, and goals
-├── Episode_4_-_Dashboard.pbix                                   # Power BI dashboard (4 pages)
-├── Episode_5_-_Presentation_Example__1_.pptx                    # Findings and recommendations
-└── images/                                                      # Dashboard screenshots used in this README
-    ├── overview.png
-    ├── conversion-details.png
-    ├── social-media-details.png
-    └── customer-review-details.png
-```
 
 ---
 
-## 10. How to Open the Dashboard
-
-1. Install **Power BI Desktop** (free, Windows).
-2. Download `Episode_4_-_Dashboard.pbix` from this repository.
-3. Open the file and browse the four report pages. Use the slicers (year, month, product, country, sentiment) to filter.
-4. If Power BI prompts for a refresh, choose **Cancel** to keep the loaded data.
-
----
-
-## 11. Acknowledgment
+## 9. Acknowledgment
 
 The business case and dataset structure follow the Marketing Analytics portfolio project series by **Ali Ahmad**.
 
 ---
 
-## 12. Author
+## 10. Author
 
 **Syasya Tri Puspita Dewi**
 Information Systems graduate | Aspiring Data Analyst
