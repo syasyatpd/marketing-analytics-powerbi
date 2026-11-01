@@ -19,10 +19,8 @@
 6. [Key Findings](#6-key-findings)
 7. [Recommendations](#7-recommendations)
 8. [Limitations and Notes](#8-limitations-and-notes)
-9. [Repository Structure](#9-repository-structure)
-10. [How to Open the Dashboard](#10-how-to-open-the-dashboard)
-11. [Acknowledgment](#11-acknowledgment)
-12. [Author](#12-author)
+9. [Acknowledgment](#11-acknowledgment)
+10. [Author](#12-author)
 
 ---
 
