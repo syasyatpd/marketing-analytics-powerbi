@@ -19,9 +19,6 @@
 6. [Key Findings](#6-key-findings)
 7. [Recommendations](#7-recommendations)
 8. [Limitations and Notes](#8-limitations-and-notes)
-9. [Acknowledgment](#11-acknowledgment)
-10. [Author](#12-author)
-
 ---
 
 ## 1. Business Problem
@@ -230,19 +227,5 @@ Views and click-through rate fell every year, while ratings stayed flat just bel
 | **Data refresh** | The model connects to a local SQL Server instance and a local CSV file. Data is already loaded in the `.pbix`, so the report can be explored, but a refresh requires the original sources |
 
 ---
-
-
----
-
-## 9. Acknowledgment
-
-The business case and dataset structure follow the Marketing Analytics portfolio project series by **Ali Ahmad**.
-
----
-
-## 10. Author
-
-**Syasya Tri Puspita Dewi**
-Information Systems graduate | Aspiring Data Analyst
 
 [Portfolio](https://syasyatpd.github.io) | [GitHub](https://github.com/syasyatpd)
